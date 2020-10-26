@@ -6,7 +6,7 @@ A loan becomes a problem for the company when clients default or are late on the
 
 Methodology
 
-R is used to create a statistical model that can predict whether an applicant will likely default or not.
+R is used to create a Logistic Regression Model that can predict whether an applicant will likely default or not.
 The methodology that will be used is the CRISP-DM, a common methodology for a data mining process model. It consists of six stages: (1) business understanding, (2) data understanding, (3) data preparation, (4) modeling, (5) evaluation, and (6) deployment.
 
 Business understanding
