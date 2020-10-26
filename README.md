@@ -13,6 +13,7 @@ Business understanding
 -	Project plan: Timing, resources (data to be collected, personnel to work on project, selection of data analytics tools, techniques, budget), risks and contingencies, cost.
 
 Dataset
+The dataset is 
 
 
 Data understanding
