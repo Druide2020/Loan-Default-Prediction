@@ -6,9 +6,11 @@ A loan becomes a problem for the company when clients default or are late on the
 
 Methodology
 
-Predictive analytics is used to create a statistical model that can predict whether an applicant will likely default or not.
+R is used to create a statistical model that can predict whether an applicant will likely default or not.
 The methodology that will be used is the CRISP-DM, a common methodology for a data mining process model. It consists of six stages: (1) business understanding, (2) data understanding, (3) data preparation, (4) modeling, (5) evaluation, and (6) deployment.
+
 Business understanding
+
 -	The problem: Determine which credit application is risky or not.
 -	Impact of problem: loan defaults, financial loss for the company
 -	Value of data analytics initiative: better understanding of customers, better risk management, limitation of financial losses.
