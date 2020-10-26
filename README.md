@@ -23,3 +23,5 @@ In order to design a good predictive model, the company must be sure of the qual
 A first step has been taken by making the data anonymous. The data belong to 1000 past credit applicants (credit history with GE, checking account status, number of credit lines at GE, savings account balance, occupation, age, credit amount requested, properties owned).  
 
 
+Results
+The DAT 690 - FINAL PROJECT - Copy Powerpoint slides present the results of study.
