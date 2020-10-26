@@ -1,9 +1,11 @@
 # Loan-Default-Prediction
 Background
+
 The GE credit department provides credit and financing solutions to its customers.
 A loan becomes a problem for the company when clients default or are late on their payments. Until now, GE was approving credit requests based on the applicants financial, socio-demographic data. In order to better assess the risks it faces, the department orders a data analytics initiative to predict loan default before it happens. The goal is to be able to differentiate between good and bad credit applicants.
 
 Methodology
+
 Predictive analytics is used to create a statistical model that can predict whether an applicant will likely default or not.
 The methodology that will be used is the CRISP-DM, a common methodology for a data mining process model. It consists of six stages: (1) business understanding, (2) data understanding, (3) data preparation, (4) modeling, (5) evaluation, and (6) deployment.
 Business understanding
@@ -11,9 +13,6 @@ Business understanding
 -	Impact of problem: loan defaults, financial loss for the company
 -	Value of data analytics initiative: better understanding of customers, better risk management, limitation of financial losses.
 -	Project plan: Timing, resources (data to be collected, personnel to work on project, selection of data analytics tools, techniques, budget), risks and contingencies, cost.
-
-Dataset
-The dataset is 
 
 
 Data understanding
